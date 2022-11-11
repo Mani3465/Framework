@@ -6,6 +6,10 @@ package Practiiiii;
 			System.out.println("hello");
 			System.out.println("ramya");
 			System.out.println("pooja");
+			System.out.println("hii");
+			System.out.println("hello");
+			System.out.println("ramya");
+			System.out.println("pooja");
 		}
 		}
 
